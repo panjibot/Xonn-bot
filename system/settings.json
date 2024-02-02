@@ -1,6 +1,6 @@
 {
-   "owner": "6285726319205",
-   "owner_name": "Kens Ransyah",
+   "owner": "6283141083033",
+   "owner_name": "panji",
    "database": "data",
    "limit": 15,
    "ram_limit": "9000mb",
@@ -13,6 +13,6 @@
    "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
    "pairing": {
       "state": false,
-      "number": 628888375863
+      "number": 6283141083033
    }
 }
